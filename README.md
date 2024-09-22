@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mishalla&label=Profile%20views&color=0e75b6&style=flat" alt="mishalla" /> </p>
 
-- 🌱 I’m currently learning **Ethical Hacking, JavaScript**
+- 🌱 I’m currently learning **MERN STACK**
 
-- 💬 Ask me about **Python, Data Structures, kali Linux**
+- 💬 Ask me about **Python, Data Structures, Front-End**
 
 - 📫 Reach me at -> **md.mishalchowdhury@gmail.com**
 
